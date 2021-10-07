@@ -1,4 +1,2 @@
 # Codigos-UC_10
-# SQL
-#
--
+# Código SQL desenvolvidos para a UC 10.
